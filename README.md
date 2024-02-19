@@ -1,9 +1,14 @@
 # OODP
 CS 472/572 (S24) HW1 (Feb 06 Tue) 1/3 
+
 Homework #1 Lexi, Composite, and Strategy 
+
 Issued: Tuesday, February 6 
+
 Due: Thursday, February 22 
+
 Purpose 
+
 This assignment allows you to learn about two design patterns: Composite(163)
 and Strategy(315). 
 Assignment 
