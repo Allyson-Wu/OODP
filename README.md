@@ -1,5 +1,4 @@
 # OODP
-![image](https://github.com/Allyson-Wu/OODP/assets/142470368/682ccfec-6adb-430c-814d-e81a85bd4e28)
 CS 472/572 (S24) HW1 (Feb 06 Tue) 1/3
 Homework #1 Lexi, Composite, and Strategy
 Issued: Tuesday, February 6
@@ -13,6 +12,9 @@ textbook.
 CS 472/572 (S24) HW1 (Feb 06 Tue) 2/3
 Test your solution with a simple graphical demonstration. For example, this is
 the result of my test:
+
+![image](https://github.com/Allyson-Wu/OODP/assets/142470368/682ccfec-6adb-430c-814d-e81a85bd4e28)
+
 This document is a column containing two rows. The first row contains: a
 character (a), a rectangle, a column of three characters (X, Y, and Z), and
 another character (b).
