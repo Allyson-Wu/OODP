@@ -1,14 +1,14 @@
 # OODP
-CS 472/572 (S24) HW1 (Feb 06 Tue) 1/3
-Homework #1 Lexi, Composite, and Strategy
-Issued: Tuesday, February 6
-Due: Thursday, February 22
-Purpose
+CS 472/572 (S24) HW1 (Feb 06 Tue) 1/3 
+Homework #1 Lexi, Composite, and Strategy 
+Issued: Tuesday, February 6 
+Due: Thursday, February 22 
+Purpose 
 This assignment allows you to learn about two design patterns: Composite(163)
-and Strategy(315).
-Assignment
+and Strategy(315). 
+Assignment 
 Design (in UML) and implement (in Java) the Document Structure and Formatting parts of the Lexi editor, as described in Sections 2.2 and 2.3 of our
-textbook.
+textbook. 
 CS 472/572 (S24) HW1 (Feb 06 Tue) 2/3
 Test your solution with a simple graphical demonstration. For example, this is
 the result of my test:
